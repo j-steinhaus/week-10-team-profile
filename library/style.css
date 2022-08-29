@@ -1,0 +1,20 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#intern-header {
+    background-color: #69772b;
+    color: white;
+
+}
+
+#engineer-header {
+    background-color: #808556;
+    color: white;
+}
+
+#manager-header {
+    background-color: #9aa56b;
+    color: white;
+}
+
