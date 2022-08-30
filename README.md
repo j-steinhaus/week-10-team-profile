@@ -29,3 +29,6 @@ THEN I exit the application, and the HTML is generated
 # Usage
 Use inquirer from your command line to answer questions about your project. 
 <img width="1430" alt="Screenshot 2022-08-28 at 8 48 39 PM" src="https://user-images.githubusercontent.com/107279088/187113227-9db39a37-9230-4a1f-a37e-d077d5b46442.png">
+
+# ScreenRecord
+>File too big
